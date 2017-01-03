@@ -9,10 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "firebase": "^3.6.3",
-    "firebase-admin": "^4.0.4",
-    "node-gcm": "^0.14.4",
+  "dependencies": {    
+    "firebase-admin": "^4.0.4",    
     "request": "^2.79.0"
   }
 }
