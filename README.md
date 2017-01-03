@@ -1,7 +1,5 @@
 # Simple Firebase Notifications
 A simple Node script to send notifications to an iOS or Android device using Firebase Cloud Messaging.
-This is just an example and the following variables MUST be changed to your custom values in order for this to work:
-
 
 ### How to run
 
@@ -13,6 +11,8 @@ node notification.js
 if the notification was sent, _done!_ will be printed in the console, the error will be printed otherwise.
 
 ### Considerations
+
+This is just an example and the following variables MUST be changed to your custom values in order for this to work:
 
 - *client1* 
 	
